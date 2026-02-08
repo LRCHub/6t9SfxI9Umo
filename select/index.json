@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ピカロ",
+  "base_artist": "空白ごっこ",
+  "createdAt": "2026-02-08T08:31:25.059555Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピカロ",
+      "artist": "空白ごっこ",
+      "has_synced": false,
+      "path": "select/pl_01_ピカロ_空白ごっこ.txt"
+    }
+  ]
+}
